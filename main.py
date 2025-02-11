@@ -12,7 +12,8 @@ products = [
         "prce_pc(판매가)": 0,
         "link(상품링크주소)": "https://itsrain.co.kr/product/스탠리-물통중고/11/category/1/display/2/",
         "img_link(이미지링크주소)": "https://itsrain.co.kr/web/product/big/202304/24fed9ac3808f06854d86e98c002a9f0.png",
-        "category(카테고리)": "ALL",
+        "category_name1(카테고리1)": "ALL",
+        "category_name2(카테고리2)": "물통",
         "condition(상태)": "판매중"
     },
     {
