@@ -22,7 +22,8 @@ products = [
         "prce_pc(판매가)": 6830,
         "link(상품링크주소)": "https://itsrain.co.kr/product/스타벅스-카드지갑/12/category/1/display/2/",
         "img_link(이미지링크주소)": "https://itsrain.co.kr/web/product/big/202304/37ca02beb9055bd1a34f5cf876414a48.png",
-        "category(카테고리)": "ALL",
+        "category_name1(카테고리1)": "ALL",
+        "category_name2(카테고리2)": "지갑",
         "condition(상태)": "판매중"
     },
     {
@@ -32,7 +33,8 @@ products = [
         "prce_pc(판매가)": 25000,
         "link(상품링크주소)": "https://itsrain.co.kr/product/에어팟-1세대-본체와-케이스/13/category/29/display/1/",
         "img_link(이미지링크주소)": "https://itsrain.co.kr/web/product/medium/202304/f3902780100a301b3aaf5de56f3fd109.png",
-        "category(카테고리)": "ALL",
+        "category_name1(카테고리1)": "ALL",
+        "category_name2(카테고리2)": "에어팟",
         "condition(상태)": "판매중"
     },
     {
@@ -42,7 +44,8 @@ products = [
         "prce_pc(판매가)": 12800,
         "link(상품링크주소)": "https://itsrain.co.kr/product/외나무다리-의자/14/category/29/display/1/",
         "img_link(이미지링크주소)": "https://itsrain.co.kr/web/product/medium/202403/6e4ab38adb7e06902eb2e01d4c9ce6b1.png",
-        "category(카테고리)": "ALL",
+        "category_name1(카테고리1)": "ALL",
+        "category_name2(카테고리2)": "의자",
         "condition(상태)": "판매중"
     },
     {
